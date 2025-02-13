@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MP</string>
+    <string name="display_msg">"Welcome to Academic Allies!"</string>
+    <string name="about">
+        ABOUT US!!
+    </string>
+    <string name="info">"
+        Welcome to Academic Allies : From Aspirations to Achievements. At Academic Allies, we understand the making of informed decisions about your future. Our mission is to empower you to navigate the maze of possibilities and make choices aligned with your interests and objectives. Join us in this transformative voyage as we assist you in charting a course towards a fulfilling and purposeful future. Your journey begins here, at Academic Allies, where choices matter the most.
+        "</string>
+    <string name="take_survey">"
+        Take our survey and find out what's best for you ! Click on the "Take Survey" option below to continue.
+        "</string>
+    <string name="take_survey_btn">
+        "Take Survey"
+    </string>
+    <string name="const_msg">"Join us in becoming an ally and help make this app a success. Together, we can develop this page and enhance the entire app experience!"</string>
+    <string name="q1" translatable="false">"1. In which academic subject do you consistently excel?"</string>
+    <string name="q2" translatable="false">"2. Which subjects do you find most interesting and enjoyable?"</string>
+    <string name="q3" translatable="false">"3. Which subjects do you find challenging or less enjoyable?"</string>
+    <string name="q4" translatable="false">"4. What are your favorite extracurricular activities or hobbies?"</string>
+    <string name="q5" translatable="false">"5. What are your career aspirations or dream job?"</string>
+    <string name="q6" translatable="false">"6. Are you more interested in theoretical learning or practical, hands-on experiences?"</string>
+    <string name="q7" translatable="false">"7. Are you more interested in STEM (Science, Technology, Engineering, Mathematics) or non-STEM fields?"</string>
+    <string name="q8" translatable="false">"8. Are there any specific industries or sectors you are particularly interested in, such as healthcare, technology, education, finance, etc.?"</string>
+    <string name="q9" translatable="false">"9. Any other extra curricular activities you are interested in apart from academics?"</string>
+    <string name="q10" translatable="false">"10. If you had to choose your career between the academics and extra curricular activity (like sports field), which one would you prefer?"</string>
+    <string name="res">"Your sights are invaluable, and based on your responses, we have crafted a personalized course recommendation that aligns perfectly with your unique strengths and aspirations."</string>
+
+</resources>

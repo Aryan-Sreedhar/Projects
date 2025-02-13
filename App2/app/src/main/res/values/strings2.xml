@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="sc1">"Based on your answers, it appears that you have a strong inclination and aptitude towards the Sciences. We recommend that you consider pursuing one of the following Science courses: MPC, BiPC, or MBiPC. Here’s a detailed overview of each course and the opportunities they offer:"</string>
+    <string name="sc2"><u>1. MPC (Maths, Physics, Chemistry):</u> </string>
+    <string name="sc3">The MPC course is ideal for students with a keen interest in Mathematics and Physical Sciences. This course provides a solid foundation for various technical and engineering fields.</string>
+    <string name="sc4">"1. Engineering: Various branches like Mechanical, Electrical, Civil, Computer Science, and more.
+
+2. Architecture: With additional qualifications, you can become a professional architect.
+3. Pure Sciences: Further studies in Physics, Chemistry, or Mathematics can lead to careers in research and academia.
+4. Data Science: A growing field combining statistics, data analysis, and computer science.
+5. Actuarial Science: Use mathematical skills to assess risk in insurance, finance, and other industries.
+6. Information Technology: Roles in software development, cyber security, and IT management.
+7. Aerospace: Opportunities in the design and development of aircraft and spacecraft.
+8. Robotics: Specialize in designing and building robots and automated systems.
+9. Teaching: Become a professor or lecturer in colleges and universities.
+10. Defense Services: Roles in technical branches of the armed forces."</string>
+    <string name="sc5"><u>2. BiPC (Biology, Physics, Chemistry):</u></string>
+
+    <string name="sc6">The BiPC course is perfect for students interested in the life sciences and medical fields. It provides the necessary background for pursuing careers in medicine, research, and healthcare.</string>
+    <string name="sc7">"1. Medicine: Pursue MBBS and become a doctor.
+2. Dentistry: Study BDS and become a dentist.
+3. Pharmacy: Obtain a degree in Pharmacy (B.Pharm) and work in the pharmaceutical industry.
+4. Biotechnology: Enter the field of biotech research and development.
+5. Agriculture and Veterinary Sciences: Explore careers in agricultural sciences or veterinary medicine.
+6. Genetics: Work in genetic counseling, research, and clinical genetics.
+7. Microbiology: Specialize in studying microorganisms and their effects on humans, animals, plants, and the environment.
+8. Environmental Science: Focus on protecting and improving environmental quality.
+9. Nutrition and Dietetics: Work as a nutritionist or dietitian in hospitals, sports, and wellness centers.
+10. Teaching and Research: Academic careers in universities and research institutions."</string>
+    <string name="sc8">The MBiPC course is an interdisciplinary program combining Mathematics and Biology with Physics and Chemistry. It’s suitable for students who want to keep their options open in both engineering and medical fields.</string>
+    <string name="sc9">"1. Medical Engineering: Specialize in Biomedical Engineering, combining medical knowledge with engineering.
+2. Bioinformatics: A field at the intersection of biology and data science.
+3. Research: Opportunities in interdisciplinary research areas combining physical and life sciences.
+4. Competitive Exams: Eligibility for a broader range of entrance exams for both engineering and medical colleges.
+5. Biophysics: Study of biological processes using the principles and methods of physics.
+6. Biostatistics: Application of statistics to biological fields in medicine and public health.
+7. Pharmaceutical Sciences: Research and development in the pharmaceutical industry.
+8. Environmental Biotechnology: Application of biotechnology in solving environmental problems.
+9. Clinical Research: Conduct research aimed at improving patient care and medical knowledge.
+10. Agricultural Engineering: Application of engineering principles to agricultural practices."</string>
+<string name="sc10"><u>3. MBiPC (Maths, Biology, Physics and Chemistry):</u></string>
+
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401548485895",
+    "project_id": "mobapp-d6581",
+    "storage_bucket": "mobapp-d6581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401548485895:android:6ff8c874fee711a0fd51a2",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcR8rsI7_5rr5O1qOBiD-1QcBblrg3KoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

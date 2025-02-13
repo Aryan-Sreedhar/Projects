@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ac1">"Based on your answers, it appears that you have a strong inclination and aptitude towards Arts and Humanities. We recommend that you consider pursuing one of the following Arts and Humanities courses. Here’s a detailed overview of each course and the opportunities they offer:"</string>
+    <string name="ac2"><u>1. Humanities (History, Political Science, Sociology, Geography, etc.):</u></string>
+    <string name="ac3">The Humanities course is ideal for students interested in understanding human society, history, and culture. This course provides a solid foundation for various careers in social sciences, public administration, and more.</string>
+    <string name="ac4">"1. Civil Services: Prepare for UPSC and other state-level administrative services.
+2. Law: Pursue a degree in law and become a lawyer or legal advisor.
+3. Journalism: Enter the field of media and journalism.
+4. Public Policy: Work in policy-making institutions and think tanks.
+5. Social Work: Engage in community service and development projects.
+6. Teaching: Become a teacher or lecturer in schools and colleges.
+7. Research: Conduct academic research in various social science fields.
+8. Museum and Heritage Management: Work in museums, archives, and cultural heritage sites.
+9. Political Analysis: Work as a political analyst or consultant.
+10. NGO Management: Work in non-governmental organizations focused on social issues."</string>
+    <string name="ac5"><u>2. Literature and Languages:</u></string>
+
+    <string name="ac6">Courses in Literature and Languages are perfect for students with a passion for reading, writing, and analyzing texts. These courses provide opportunities in various creative and communicative fields.
+    </string>
+    <string name="ac7">"1. Writing: Become a novelist, poet, or non-fiction writer.
+2. Editing and Publishing: Work as an editor or publisher.
+3. Translation and Interpretation: Work as a translator or interpreter.
+4. Journalism: Write for newspapers, magazines, and online platforms.
+5. Content Creation: Create content for digital media, blogs, and social platforms.
+6. Advertising: Work in copywriting and advertising.
+7. Teaching: Teach languages and literature in schools and colleges.
+8. Scriptwriting: Write scripts for movies, TV shows, and theatre.
+9. Public Relations: Work in PR firms and manage communication for organizations.
+10. Linguistics: Conduct research in linguistics and language studies."</string>
+
+    <string name="ac12">"1. Civil Servant
+2. Lawyer
+3. Journalist
+4. Policy Analyst
+5. Social Worker
+6. Teacher/Lecturer
+7. Researcher
+8. Museum Curator
+9. Political Analyst
+10. NGO Manager"</string>
+
+    <string name="ac13">"1. Writer
+2. Editor
+3. Translator
+4. Journalist
+5. Content Creator
+6. Copywriter
+7. Teacher/Lecturer
+8. Scriptwriter
+9. Public Relations Specialist
+10. Linguist"</string>
+<string name="hding"><u>RESULT</u></string>
+
+
+</resources>

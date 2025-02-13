@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="cc1">"Based on your answers, it appears that you have a strong inclination and aptitude towards Commerce. We recommend that you consider pursuing one of the following Commerce courses: MEC (Maths, Economics, Commerce), CEC (Civics, Economics, Commerce), or HEC (History, Economics, Commerce). Here’s a detailed overview of each course and the opportunities they offer:"</string>
+    <string name="cc2"><u>1. MEC (Maths, Economics, Commerce):</u></string>
+    <string name="cc3">The MEC course is ideal for students with a keen interest in Mathematics, Economics, and Commerce. This course provides a solid foundation for various financial, economic, and business careers.</string>
+    <string name="cc4">"1. Economics: Further studies in economics can lead to roles in economic analysis, research, and policy-making.
+2. Chartered Accountancy (CA): A professional course that leads to a career as a Chartered Accountant.
+3. Company Secretary (CS): Specialize in corporate governance and company laws.
+4. Actuarial Science: Use mathematical skills to assess risk in insurance, finance, and other industries.
+5. Banking and Finance: Careers in banking, investment, and financial services.
+6. Stock Market Analysis: Roles in stock market trading, analysis, and brokerage.
+7. Data Analysis: Specialize in analyzing business data to support decision-making.
+8. Business Management: Pursue an MBA or other management degrees for leadership roles in business.
+9. Teaching: Become a professor or lecturer in colleges and universities.
+10. Entrepreneurship: Start your own business leveraging your knowledge in commerce and economics."</string>
+
+    <string name="cc5">1. Software Engineer
+2. Civil Engineer
+3. Data Scientist
+4. Mechanical Engineer
+5. Architect
+6. Aerospace Engineer
+7. Robotics Engineer
+8. Actuary
+9. IT Consultant
+10. Defense Technical Officer</string>
+    <string name="cc6">The CEC course is perfect for students interested in understanding the economic and civic structures of society. It provides the necessary background for careers in public administration, law, and business.</string>
+    <string name="cc7">"1. Public Administration: Roles in government services through civil services exams.
+2. Law: Pursue LLB and become a lawyer or legal advisor.
+3. Journalism: Careers in economic and political journalism.
+4. Corporate Law: Specialize in legal aspects of business and corporations.
+5. Policy Analysis: Work in think tanks and research organizations analyzing public policies.
+6. Human Resources: Roles in managing workforce and organizational development.
+7. NGO Management: Work in non-profit sector focusing on social issues.
+8. International Relations: Careers in diplomacy and international organizations.
+9. Political Consulting: Advising political candidates and parties.
+10. Teaching and Research: Academic careers in universities and research institutions."</string>
+    <string name="cc8">The HEC course combines History, Economics, and Commerce, offering a broad understanding of societal developments, economic principles, and commercial practices. It is suitable for students interested in multidisciplinary careers.</string>
+    <string name="cc9">"1. Historians and Archaeologists: Roles in research, museums, and heritage management.
+2. Economic History: Specialize in the study of economic developments over time.
+3. Museum Curatorship: Manage collections and exhibitions in museums.
+4. Public Policy: Work in policy development and analysis for government and non-profits.
+5. Research: Conduct research in history and economics.
+6. Teaching: Academic careers in schools and universities.
+7. Civil Services: Roles in government through competitive exams.
+8. Cultural Resource Management: Preservation and management of cultural heritage.
+9. Economic Consulting: Advisory roles in historical economic trends and data analysis.
+10. Publishing and Writing: Write and publish on historical and economic topics."</string>
+
+    <string name="cc10"><u>2. CEC (Civics, Economics, Commerce):</u></string>
+    <string name="cc11"><u>3. HEC (History, Economics, Commerce):</u></string>
+
+</resources>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/moon"
+    tools:context=".SurveyActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Academic Allies"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:fontFamily="sans-serif-black"
+        app:layout_constraintBottom_toBottomOf="@+id/toolbar"
+        app:layout_constraintEnd_toEndOf="@+id/toolbar"
+        app:layout_constraintStart_toStartOf="@+id/toolbar"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/backbtn"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        app:layout_constraintBottom_toBottomOf="@+id/toolbar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="?attr/actionModeCloseDrawable"
+        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+    <TextView
+        android:id="@+id/surveytext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="SURVEY"
+        android:textColor="@color/black"
+        android:textSize="25dp"
+        android:fontFamily="sans-serif-black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar" />
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/surveytext"
+        tools:ignore="ExtraText">>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+
+            <TextView
+                android:id="@+id/qs6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:inputType="none"
+                android:fontFamily="sans-serif-black"
+                android:text="@string/q6"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense.ExposedDropdownMenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:layout_margin="32dp"
+                android:layout_marginEnd="32dp"
+                android:hint="Subjects"
+                android:background="@color/white">
+
+                <AutoCompleteTextView
+                    android:id="@+id/autoCompleteTextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingTop="16dp"
+                    android:paddingBottom="16dp"
+                    android:textSize="20dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="sans-serif-medium"
+                    android:inputType="none"
+                    android:textStyle="italic"
+                    android:text="Select a Subject" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+            <TextView
+                android:id="@+id/qs7"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:inputType="none"
+                android:fontFamily="sans-serif-black"
+                android:text="@string/q7"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense.ExposedDropdownMenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:layout_margin="32dp"
+                android:layout_marginEnd="32dp"
+                android:hint="Subjects"
+                android:background="@color/white">
+
+                <AutoCompleteTextView
+                    android:id="@+id/autoCompleteTextView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingTop="16dp"
+                    android:paddingBottom="16dp"
+                    android:textSize="20dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="sans-serif-medium"
+                    android:inputType="none"
+                    android:textStyle="italic"
+                    android:text="Select a Subject" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+            <TextView
+                android:id="@+id/qs8"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:inputType="none"
+                android:fontFamily="sans-serif-black"
+                android:text="@string/q8"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="32dp"
+                android:layout_margin="32dp"
+                android:layout_marginEnd="32dp"
+                android:background="@color/white">
+
+                <EditText
+                    android:id="@+id/editText5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingTop="16dp"
+                    android:paddingBottom="16dp"
+                    android:textSize="20dp"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/black"
+                    android:fontFamily="sans-serif-medium"
+                    android:textStyle="italic"
+                    android:hint="Enter your answer" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+            <TextView
+                android:id="@+id/qs9"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:inputType="none"
+                android:fontFamily="sans-serif-black"
+                android:text="@string/q9"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="32dp"
+                android:layout_margin="32dp"
+                android:layout_marginEnd="32dp"
+                android:background="@color/white">
+
+                <EditText
+                    android:id="@+id/editText4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingTop="16dp"
+                    android:paddingBottom="16dp"
+                    android:textSize="20dp"
+                    android:textColorHint="@color/black"
+                    android:textColor="@color/black"
+                    android:fontFamily="sans-serif-medium"
+                    android:inputType="none"
+                    android:textStyle="italic"
+                    android:hint="Enter your answer" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:id="@+id/qs10"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:inputType="none"
+                android:fontFamily="sans-serif-black"
+                android:text="@string/q10"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense.ExposedDropdownMenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:layout_margin="32dp"
+                android:layout_marginEnd="32dp"
+                android:hint="Subjects"
+                android:background="@color/white">
+
+                <AutoCompleteTextView
+                    android:id="@+id/autoCompleteTextView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingTop="16dp"
+                    android:paddingBottom="16dp"
+                    android:textSize="20dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="sans-serif-medium"
+                    android:inputType="none"
+                    android:textStyle="italic"
+                    android:text="Select a Subject" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <Button
+                android:id="@+id/next1"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/button_corner"
+                android:text="Confirm and Next"
+                android:textSize="15dp"
+                tools:ignore="TextSizeCheck" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/applogo"
+        android:label="Academic Allies: From Aspirations to Achievements"
+        android:roundIcon="@drawable/pic"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.App"
+        tools:targetApi="31">
+        <activity
+            android:name=".Results7Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Results6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Results5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Results4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Results3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Results2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ResultsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SurveyNum2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".UnderWorkActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SurveyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomePageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
