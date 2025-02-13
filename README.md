@@ -15,7 +15,7 @@
 
 ## How to Use
 
-1. **Download the App**: Get the app from the Google Play Store or install it directly from the source.
+1. **Download the App**: Get the app through the apk.
 2. **Sign Up**: Create an account or log in to the app.
 3. **Take the Survey**: Select the "Take Survey" option, and answer a few questions about your interests and career preferences.
 4. **Submit**: Once the survey is completed, click "Submit" to get personalized course recommendations.
